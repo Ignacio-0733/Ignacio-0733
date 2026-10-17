@@ -74,7 +74,7 @@ Tengo formación y certificaciones de:
 
 ## 🔗 Contacto
 
-💼 [LinkedIn](www.linkedin.com/in/ignacio-pérez-fernández-461285302)
+💼 [LinkedIn](https://www.linkedin.com/in/ignacio-pérez-fernández-461285302/)
 
 
 📧 ignacioperezfernandez7@gmail.com
