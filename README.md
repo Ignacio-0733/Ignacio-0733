@@ -64,6 +64,12 @@ Additional training in networking, cybersecurity, artificial intelligence, and I
 - Improving my knowledge of cybersecurity and IT infrastructure.
 - Exploring the role of technology in motorsport.
 
+  ## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ignacio-0733&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ignacio-0733&layout=compact&theme=transparent)
+
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ignacio-p%C3%A9rez-fern%C3%A1ndez-461285302/)
